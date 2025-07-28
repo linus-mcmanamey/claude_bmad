@@ -1,0 +1,2 @@
+# Ignore all symbolic links
+* filter=ignore-symlinks
